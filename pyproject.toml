@@ -1,0 +1,14 @@
+[project]
+name = "django_boilerplate"
+version = "0.0.1"
+description = "Django boilerplate project with linters and formatters."
+dependencies = [
+  "Django>=5.0",
+  "python-dotenv>=1.0.1",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+
+[project.urls]
+Repository = "https://github.com/Azen0n/django_boilerplate"
+Documentation = "https://github.com/Azen0n/django_boilerplate"
