@@ -6,7 +6,7 @@ removing comments and minor tweaks (using dotenv variables for secrets).
 ### Usage
 1. Clone project
    ```shell
-   git clone git@github.com:Azen0n/django_boilerplate.git
+   git clone git@github.com:Azen0n/django-boilerplate.git
    ```
 2. Set new origin url
    ```shell
