@@ -28,9 +28,9 @@ Ensure you compile any new dependencies if you make changes to them (see
     ```shell
     uv pip install -r requirements.txt
     ```
-5. Rename `example.env` to `.env` and set values
+5. Copy `example.env` to `.env` and set values
     ```shell
-    mv example.env .env
+    cat example.env > .env
     ```
 
 ### New Dependencies
